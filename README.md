@@ -4,9 +4,10 @@ https://www.w3.org/Graphics/SVG/
 
 .js
 https://github.com/svgdotjs/svg.js
+
 https://svgjs.com/docs/3.0/tutorials/
 
-```
+```js
 var draw = SVG('drawing').size(300, 300)
 var rect = draw.rect(100, 100).attr({ fill: '#f06' })
 
