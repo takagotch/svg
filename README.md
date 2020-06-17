@@ -2,10 +2,22 @@
 ---
 
 
+####
 
 
-
-
+#### svg コード書き出し AdobeのIllustrator
+```
+// https://helpx.adobe.com/jp/illustrator/how-to/export-svg.html
+<div class="icons-home">
+  <a aria-label="Send email" href="mailto:{{site.email}}"><svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg></a>
+</div>
+/*
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <textPath xlink:href="#icon-email">
+</svg>
+*/
+```
 
 
 
