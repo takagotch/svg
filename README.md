@@ -3,7 +3,7 @@
 ###### iloveIMG
 https://github.com/takagotch/IloveIMG
 
-###### Vectr
+###### Vectr linked Google
 https://vectr.com/
 
 #### dribbble
